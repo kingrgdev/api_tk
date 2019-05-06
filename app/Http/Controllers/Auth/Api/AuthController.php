@@ -46,7 +46,7 @@ class AuthController extends Controller
             //     return response(['status'=>'error',
             //         'Datetime'=>$myDatetime,
             //         'state'=>$myState,
-            //         'message'=>'DateTime and state for this day already exists!'
+            //         'message'=>'DateTime and state for this day already exists!'sss
             //     ]);
             // }else{
 
